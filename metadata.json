@@ -1,0 +1,8 @@
+{
+  "name": "EcoKarma",
+  "description": "Post green eco-activities, receive AI impact scores \u0026 points, unlock badges, and compete for the Best Environmentalist title.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
